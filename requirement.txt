@@ -1,0 +1,10 @@
+# required package to be installed
+pandas
+regex
+numpy
+matplotlib
+seaborn
+requests
+wordcloud
+fpdf
+scikit-learn
